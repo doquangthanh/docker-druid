@@ -2,7 +2,7 @@
 
 Tags:
 
-- 0.9.2, 0.9, latest ([Dockerfile](https://github.com/deitch/docker-druid/blob/master/Dockerfile))
+- 0.9.1, 0.9, latest ([Dockerfile](https://github.com/doquangthanh/docker-druid/blob/master/Dockerfile))
 
 ## What is Druid?
 

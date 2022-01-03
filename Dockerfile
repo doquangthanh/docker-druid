@@ -1,6 +1,5 @@
 
 FROM openjdk:8-jre-alpine
-MAINTAINER Avi Deitcher <https://github.com/deitch>
 
 EXPOSE 8081 8082 8083 8090 8091
 
